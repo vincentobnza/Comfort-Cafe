@@ -1,0 +1,42 @@
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Guna.UI.dll
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Paymentform.resources
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.login.resources
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\vince\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\Guna.UI.dll
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.login.resources
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.Paymentform.resources
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\vince\OneDrive\Documents\Comfort Cafe\WindowsApp1\obj\Debug\WindowsApp1.pdb
